@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ayondo.CFD</string>
+				<string>com.ayondo.CFD.ios8fix</string>
 				<key>bundle-version</key>
 				<string>1.3.6</string>
 				<key>kind</key>
